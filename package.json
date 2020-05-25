@@ -1,5 +1,5 @@
 {
-  "name": "@naveen.kumar/inputvalidation",
+  "name": "ts-type-validation",
   "version": "0.0.1",
   "description": "NPM package to validate input commands",
   "main": "lib/index.js",
